@@ -1,58 +1,24 @@
-# Sistema de Escolha de Classes e Antecedentes para RPG
+# D&D 5e Character Sheet Generator
 
-Este script em Python permite que os jogadores escolham uma classe e antecedentes para seus personagens em um jogo de RPG. O sistema é interativo e oferece uma variedade de opções, proporcionando uma experiência personalizada para cada jogador.
+This project is a character sheet generator for Dungeons & Dragons 5th edition (D&D 5e). The goal is to make character creation easier by allowing the player to quickly choose their **race**, **class**, **background**, and the **skills** related to their class.
 
-## Funcionalidades
+## Features
 
-- **Escolha de Classe**: O jogador pode selecionar entre várias classes, cada uma com suas características únicas.
-- **Escolha de Antecedentes**: O jogador pode escolher até dois antecedentes, cada um com suas próprias proficiências, ferramentas e ouro inicial.
-- **Proficiências**: Após escolher um antecedente, o jogador pode selecionar uma proficiência específica relacionada a esse antecedente.
-- **Exibição de Resultados**: O script exibe as escolhas do jogador, incluindo ferramentas iniciais e a quantidade total de ouro.
+- The player can choose the **race**, **class**, and **background** of the character.
+- **Skills** are automatically generated based on the selected class.
+- The final character sheet includes racial modifiers, proficiencies, and background tools.
 
-## Classes Disponíveis
+This generator aims to speed up the character creation process, especially for beginners or those who want a faster workflow.
 
-As classes disponíveis para escolha são:
+## How to Use
 
-- Guerreiro
-- Mago
-- Ladino
-- Arqueiro
-- Paladino
-- Feiticeiro
-- Bárbaro
-- Clérigo
-- Druida
-- Assassino
-- Bardo
-- Necromante
-- Cavaleiro
-- Aventureiro
-- Cultista
-- Mercador
-- Explorador
+1. Clone the repository or download the file.
+2. Run the Python script.
+3. The program will ask you to enter the character's name, race, class, background, and skills.
+4. After your choices, it will generate the character's information.
 
-## Antecedentes Disponíveis
-
-Os antecedentes disponíveis são:
-
-- Nobre: Vem de uma família de alta posição social.
-- Forasteiro: Cresceu longe da civilização, em harmonia com a natureza.
-- Criminoso: Tem um histórico de atividades ilegais.
-- Artista: Habilidoso em entreter e inspirar os outros.
-- Sábio: Dedicou sua vida à busca de conhecimento.
-- Soldado: Serviu em uma força militar e entende estratégias de combate.
-- Marinheiro: Passou sua vida em navios, enfrentando as ondas.
-- Ermitão: Viveu em isolamento, longe da civilização.
-- Aventureiro: Sempre buscou emoção e novas experiências.
-- Cultista: Foi parte de um culto ou seita secreta.
-- Mercador: Passou sua vida negociando bens e serviços.
-- Explorador: Viajou por terras desconhecidas em busca de tesouros.
-
-## Como Usar
-
-1. Certifique-se de ter o Python instalado em seu computador. Você pode baixá-lo [aqui](https://www.python.org/downloads/).
-2. Copie o código do script para um arquivo Python (por exemplo, `rpg_character_creator.py`).
-3. Execute o script no terminal ou prompt de comando utilizando o seguinte comando:
-
-   ```bash
-   python rpg_character_creator.py
+## DOCE SARIN
+--
+|\---/|
+|     |
+ \_ _/
