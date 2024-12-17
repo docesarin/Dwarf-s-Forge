@@ -87,7 +87,7 @@ def criar_ficha():
             "Ferramenta": "Ferramentas de navegação",
             "Ouro": 10
         },
-        "Ermitão": {
+        "Heremita": {
             "Descrição": "Você viveu em isolamento, longe da civilização.",
             "Proficiencias": ["Medicina", "Religião"],
             "Ferramenta": "Kit de ervas",
@@ -98,6 +98,7 @@ def criar_ficha():
             "Proficiencias": ["Acrobacia", "Sobrevivência"],
             "Ferramenta": "Kit de aventura",
             "Ouro": 15
+            
         }
     }
 
